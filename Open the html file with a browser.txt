@@ -1,0 +1,2 @@
+Open the html file with a browser,
+preferably chrome

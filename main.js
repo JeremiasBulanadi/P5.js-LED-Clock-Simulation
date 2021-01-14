@@ -11,7 +11,7 @@ const LED = {
 }
 
 function setup() {
-    createCanvas(2500,600);
+    createCanvas(1500,600);
 }
 
 // updates every frame
@@ -101,8 +101,8 @@ function draw() {
     // Drawing the time
     drawLEDString(
     `${strHours}${date.getMilliseconds() < 500 ? ":" : " "}${strMinutes}${date.getMilliseconds() < 500 ? ":" : " "}${strSeconds} ${strPeriod}`,
-    500,
-    200);
+    550,
+    300);
 }
 
 // Draws a LED style string on the canvas
