@@ -1,0 +1,10 @@
+Please open the html file with a browser,
+preferably chrome
+
+the actual code is in main.js with p5.js as a library.
+
+- JDB (CS-301)
+ 01/14/2021
+
+Github Repository also available in this link:
+https://github.com/JeremiasBulanadi/LED-Clock-Simulation-
